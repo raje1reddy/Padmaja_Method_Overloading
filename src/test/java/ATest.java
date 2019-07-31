@@ -1,7 +1,7 @@
 import org.junit.Test;
 
 import static org.junit.Assert.*;
-
+import com.padmaja.inheritance.*;
 public class ATest {
 
     @Test
